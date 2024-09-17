@@ -1,12 +1,12 @@
 <table align="right">
  	<tr>
 		<td>
-			<a href="https://github.com/DevSaLLein/DevSaLLein/blob/main/README.md">:us: English</a>
+			<a href="https://github.com/http-sallein/http-sallein/blob/main/README.md">:us: English</a>
 		</td>
 	</tr>
  	<tr>
 		<td>
-			<a href="https://github.com/DevSaLLein/DevSaLLein/blob/main/README-BR.md">:brazil: Português</a>
+			<a href="https://github.com/http-sallein/http-sallein/blob/main/README-BR.md">:brazil: Português</a>
 		</td>
 	</tr>
 </table>
@@ -70,7 +70,7 @@ Desde então, tenho mergulhado diariamente neste vasto mundo, procurando melhora
 		<table align='center'>
   			<tr>
                               <td>
-                                   <img src="https://github.com/DevSaLLein/DevSaLLein/blob/output/github-contribution-grid-snake-dark.svg" width="100%" >
+                                   <img src="https://github.com/http-sallein/http-sallein/blob/output/github-contribution-grid-snake-dark.svg" width="100%" >
                               </td>
                         </tr>
 		</table>
